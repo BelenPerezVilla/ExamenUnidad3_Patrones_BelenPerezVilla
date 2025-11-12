@@ -1,0 +1,7 @@
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenUnidad3\ExamenUnidad3\bin\Debug\ExamenUnidad3.exe.config
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenUnidad3\ExamenUnidad3\bin\Debug\ExamenUnidad3.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenUnidad3\ExamenUnidad3\bin\Debug\ExamenUnidad3.pdb
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenUnidad3\ExamenUnidad3\obj\Debug\ExamenUnidad3.csproj.AssemblyReference.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenUnidad3\ExamenUnidad3\obj\Debug\ExamenUnidad3.csproj.CoreCompileInputs.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenUnidad3\ExamenUnidad3\obj\Debug\ExamenUnidad3.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenUnidad3\ExamenUnidad3\obj\Debug\ExamenUnidad3.pdb
