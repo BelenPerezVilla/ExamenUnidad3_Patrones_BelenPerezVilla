@@ -1,0 +1,7 @@
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\SimuladorCocina\SimuladorCocina\bin\Debug\SimuladorCocina.exe.config
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\SimuladorCocina\SimuladorCocina\bin\Debug\SimuladorCocina.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\SimuladorCocina\SimuladorCocina\bin\Debug\SimuladorCocina.pdb
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\SimuladorCocina\SimuladorCocina\obj\Debug\SimuladorCocina.csproj.AssemblyReference.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\SimuladorCocina\SimuladorCocina\obj\Debug\SimuladorCocina.csproj.CoreCompileInputs.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\SimuladorCocina\SimuladorCocina\obj\Debug\SimuladorCocina.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\SimuladorCocina\SimuladorCocina\obj\Debug\SimuladorCocina.pdb
